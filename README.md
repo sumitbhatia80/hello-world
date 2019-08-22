@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+Hi World!
+
+This is Sumit Bhatia. New person in Git
